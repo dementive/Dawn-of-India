@@ -1,0 +1,22 @@
+﻿1={ #India
+	terrain="jungle"
+	culture="magadhi"
+	religion="buddhism"
+	trade_goods="fur"
+	civilization_value=22
+	barbarian_power=0
+	province_rank="settlement"
+	freemen={
+		amount=1
+	}
+}
+
+2={
+	barbarian_power=0
+	civilization_value=0
+	culture=""
+	province_rank=""
+	religion=""
+	terrain="ocean"
+	trade_goods=""
+}

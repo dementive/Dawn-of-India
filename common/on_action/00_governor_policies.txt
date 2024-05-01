@@ -1,0 +1,21 @@
+﻿acquisition_of_wealth_pulse = {
+}
+
+religious_conversion_pulse = {
+}
+
+culture_conversion_pulse = {
+}
+
+
+civilization_effort_pulse = {
+}
+
+social_mobility_pulse = {
+}
+
+centralize_pops_pulse = {
+}
+
+decentralize_pops_pulse = {
+}

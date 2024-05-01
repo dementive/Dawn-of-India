@@ -1,0 +1,267 @@
+﻿on_bastard_birth = {
+}
+
+in_naval_battle = {
+}
+
+in_land_battle = {
+}
+
+on_battle_won = {
+
+}
+
+on_state_secession = {
+}
+
+on_rebellion_in_country = {
+}
+
+on_battle_lost = {
+}
+
+on_siege_won = {
+
+}
+
+#scope:former_ruler, root = country,
+#same as on_ruler_change, but called before switching
+on_reign_ending = { 
+}
+
+on_reign_ending_successor = { #scope:former_ruler = the successor, because onactions..., root = country,
+}
+
+#scope:former_ruler, root = country
+on_ruler_change = {
+}
+
+
+#If the rebels won.
+#scope:target = ruler of losing side.
+on_civil_war_lost = {
+}
+
+#If original country won.
+#scope:target = ruler of losing side.
+on_civil_war_won = {
+}
+
+on_character_death = {
+}
+
+on_character_created = {
+}
+
+on_deified_ruler_death = {
+
+}
+
+on_tenth_birthday = {
+}
+
+on_deficit_pulse = {
+}
+
+yearly_comet_pulse = {
+}
+
+on_office_gained = {
+}
+
+on_office_lost = {
+}
+
+on_command_gained = {
+}
+
+on_command_lost = {
+}
+
+# Target is scope:target_culture, ROOT is country
+on_culture_integration_0 = {
+	
+}
+
+# Target is scope:target_culture, ROOT is country
+on_culture_integration_25 = {
+}
+
+# Target is scope:target_culture, ROOT is country
+on_culture_integration_75 = {
+}
+
+# Target is scope:target_culture, ROOT is country
+on_culture_integration_100 = {
+	
+}
+
+on_culture_increased_right = { 
+#scope:target_culture = The culture being affected, has_pop_type_right will return the old pop type rights
+#scope:target = The pop type, is_pop_type_right will return the new pop type right
+}
+
+on_culture_reduced_right = {
+#scope:target_culture = The culture being affected, has_pop_type_right will return the old pop type rights
+#scope:target = The pop type, is_pop_type_right will return the new pop type right
+}
+
+on_giving_birth = {
+}
+
+on_being_born = {
+}
+
+on_zero_health = {
+}
+
+on_becoming_adult = {
+}
+
+on_winning_war = {
+}
+
+on_losing_war = {
+	
+}
+
+on_ending_war = {
+}
+
+dictator_power_return = {
+}
+
+on_being_captured = {
+}
+
+on_being_ransomed_back = {
+}
+
+on_being_released = {
+
+}
+
+on_enacting_omen = {
+}
+
+on_change_pantheon = {
+}
+
+on_being_imprisoned = {
+}
+
+on_move_country = { #scope:old_country is the origin country
+}
+
+on_game_initialized = {
+}
+
+on_province_colonized = {
+}
+
+on_ownership_change = { #province scope
+}
+
+on_province_occupied = { #province scope, it will fire AS WELL as on_siege_won
+}
+
+on_great_battle_won_country = { #root = country scope of the main unit on the winning side, scope:actor = main unit on the winning side, scope:target = main unit on the losing side
+	
+}
+
+on_battle_won_country = { #root = country scope of the main unit on the winning side, scope:actor = main unit on the winning side, scope:target = main unit on the losing side
+}
+
+on_great_battle_lost_country = { #root = country scope of the main unit on the losing side, scope:actor = main unit on the losing side, scope:target = main unit on the winning side
+}
+
+on_battle_lost_country = { #root = country scope of the main unit on the losing side, scope:actor = main unit on the losing side, scope:target = main unit on the winning side
+}
+
+# scope is country being annexed
+# scope:actor = country doing the annexing
+on_military_annex = {
+}
+
+on_diplomatic_annex = {
+}
+
+on_civil_war_annex = {
+}
+
+
+on_invention = {
+}
+
+# Scope is the governor getting his policy changed
+on_policy_change = {
+}
+
+
+# Scope is character losing holding, with target the province lost.
+on_holding_lost = {
+}
+
+#character yearly pulses
+disease_possibilities = {
+}
+
+treatment_pulse = {
+}
+
+character_story_events = 
+{
+}
+
+character_traits_pulse = 
+{
+
+}
+
+yearly_medical_pulse = 
+{
+}
+
+yearly_debt_pulse = {
+}
+
+yearly_culture_religion_switch_pulse = {
+}
+
+yearly_character_murder_pulse = {
+}
+
+
+yearly_disloyal_generals_delay_pulse = {
+}
+
+yearly_financial_support_pulse = {
+}
+
+on_subject_defect = { #scope:future_overlord = country that stole vassal, scope:target_subject  = vassal being stolen
+}
+
+on_great_work_anniversary = {
+}
+
+on_great_work_completed = {	
+}
+
+on_great_work_destroyed = {
+#scope:target = the builder of the destroyed great work
+}
+
+on_action_requiring_senate_approval = { #If you change this, also change the scripted effect: change_religion_effect
+}
+
+on_legion_raised = {
+}
+
+on_disband_legion_unit = {
+}
+
+on_legion_dissolved = {
+}
+
+on_gw_construction_job_completed = {
+}

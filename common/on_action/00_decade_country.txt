@@ -1,0 +1,2 @@
+﻿decade_country_pulse = {
+}

@@ -1,0 +1,3 @@
+﻿monthly_job_pulse =
+{
+}

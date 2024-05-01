@@ -1,0 +1,18 @@
+country = {
+	countries = {
+	
+		BAR = {
+			government = tribal_chiefdom
+		}
+
+		IDA = {
+			government = plutocratic_republic
+			primary_culture = magadhi
+			religion = hindu
+			capital = 1
+			own_control_core = {
+				1
+			}
+		}
+	}
+}

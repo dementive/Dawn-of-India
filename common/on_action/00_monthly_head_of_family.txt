@@ -1,0 +1,5 @@
+﻿disloyal_family_pulse = { #War
+}
+
+monthly_head_of_family_pulse = {
+}

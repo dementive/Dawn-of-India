@@ -1,0 +1,2 @@
+﻿monthly_province_pulse = {
+}

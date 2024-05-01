@@ -1,0 +1,3 @@
+﻿india_area = {
+    provinces = { 1 }
+}
