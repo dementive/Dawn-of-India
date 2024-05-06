@@ -9,8 +9,7 @@
 	freemen={
 		amount=1
 	}
-}
-
+}
 2={
 	barbarian_power=0
 	civilization_value=0
@@ -19,4 +18,883 @@
 	religion=""
 	terrain="ocean"
 	trade_goods=""
+}
+3={
+    barbarian_power=0
+    civilization_value=10
+    culture="magadhi"
+    province_rank="settlement"
+    religion="buddhism"
+    terrain="plains"
+    trade_goods="wood"
+	freemen = {
+		amount = 1
+	}
+}
+4={
+    barbarian_power=0
+    civilization_value=10
+    culture="magadhi"
+    province_rank="settlement"
+    religion="buddhism"
+    terrain="plains"
+    trade_goods="wood"
+	freemen = {
+		amount = 1
+	}
+}
+5={
+    barbarian_power=0
+    civilization_value=10
+    culture="magadhi"
+    province_rank="settlement"
+    religion="buddhism"
+    terrain="plains"
+    trade_goods="wood"
+	freemen = {
+		amount = 1
+	}
+}
+6={
+    barbarian_power=0
+    civilization_value=10
+    culture="magadhi"
+    province_rank="settlement"
+    religion="buddhism"
+    terrain="plains"
+    trade_goods="wood"
+	freemen = {
+		amount = 1
+	}
+}
+7={
+    barbarian_power=0
+    civilization_value=10
+    culture="magadhi"
+    province_rank="settlement"
+    religion="buddhism"
+    terrain="plains"
+    trade_goods="wood"
+	freemen = {
+		amount = 1
+	}
+}
+8={
+    barbarian_power=0
+    civilization_value=10
+    culture="magadhi"
+    province_rank="settlement"
+    religion="buddhism"
+    terrain="plains"
+    trade_goods="wood"
+	freemen = {
+		amount = 1
+	}
+}
+9={
+    barbarian_power=0
+    civilization_value=10
+    culture="magadhi"
+    province_rank="settlement"
+    religion="buddhism"
+    terrain="plains"
+    trade_goods="wood"
+	freemen = {
+		amount = 1
+	}
+}
+10={
+    barbarian_power=0
+    civilization_value=10
+    culture="magadhi"
+    province_rank="settlement"
+    religion="buddhism"
+    terrain="plains"
+    trade_goods="wood"
+	freemen = {
+		amount = 1
+	}
+}
+11={
+    barbarian_power=0
+    civilization_value=10
+    culture="magadhi"
+    province_rank="settlement"
+    religion="buddhism"
+    terrain="plains"
+    trade_goods="wood"
+	freemen = {
+		amount = 1
+	}
+}
+12={
+    barbarian_power=0
+    civilization_value=10
+    culture="magadhi"
+    province_rank="settlement"
+    religion="buddhism"
+    terrain="plains"
+    trade_goods="wood"
+	freemen = {
+		amount = 1
+	}
+}
+13={
+    barbarian_power=0
+    civilization_value=10
+    culture="magadhi"
+    province_rank="settlement"
+    religion="buddhism"
+    terrain="plains"
+    trade_goods="wood"
+	freemen = {
+		amount = 1
+	}
+}
+14={
+    barbarian_power=0
+    civilization_value=10
+    culture="magadhi"
+    province_rank="settlement"
+    religion="buddhism"
+    terrain="plains"
+    trade_goods="wood"
+	freemen = {
+		amount = 1
+	}
+}
+15={
+    barbarian_power=0
+    civilization_value=10
+    culture="magadhi"
+    province_rank="settlement"
+    religion="buddhism"
+    terrain="plains"
+    trade_goods="wood"
+	freemen = {
+		amount = 1
+	}
+}
+16={
+    barbarian_power=0
+    civilization_value=10
+    culture="magadhi"
+    province_rank="settlement"
+    religion="buddhism"
+    terrain="plains"
+    trade_goods="wood"
+	freemen = {
+		amount = 1
+	}
+}
+17={
+    barbarian_power=0
+    civilization_value=10
+    culture="magadhi"
+    province_rank="settlement"
+    religion="buddhism"
+    terrain="plains"
+    trade_goods="wood"
+	freemen = {
+		amount = 1
+	}
+}
+18={
+    barbarian_power=0
+    civilization_value=10
+    culture="magadhi"
+    province_rank="settlement"
+    religion="buddhism"
+    terrain="plains"
+    trade_goods="wood"
+	freemen = {
+		amount = 1
+	}
+}
+19={
+    barbarian_power=0
+    civilization_value=10
+    culture="magadhi"
+    province_rank="settlement"
+    religion="buddhism"
+    terrain="plains"
+    trade_goods="wood"
+	freemen = {
+		amount = 1
+	}
+}
+20={
+    barbarian_power=0
+    civilization_value=10
+    culture="magadhi"
+    province_rank="settlement"
+    religion="buddhism"
+    terrain="plains"
+    trade_goods="wood"
+	freemen = {
+		amount = 1
+	}
+}
+21={
+    barbarian_power=0
+    civilization_value=10
+    culture="magadhi"
+    province_rank="settlement"
+    religion="buddhism"
+    terrain="plains"
+    trade_goods="wood"
+	freemen = {
+		amount = 1
+	}
+}
+22={
+    barbarian_power=0
+    civilization_value=10
+    culture="magadhi"
+    province_rank="settlement"
+    religion="buddhism"
+    terrain="plains"
+    trade_goods="wood"
+	freemen = {
+		amount = 1
+	}
+}
+23={
+    barbarian_power=0
+    civilization_value=10
+    culture="magadhi"
+    province_rank="settlement"
+    religion="buddhism"
+    terrain="plains"
+    trade_goods="wood"
+	freemen = {
+		amount = 1
+	}
+}
+24={
+    barbarian_power=0
+    civilization_value=10
+    culture="magadhi"
+    province_rank="settlement"
+    religion="buddhism"
+    terrain="plains"
+    trade_goods="wood"
+	freemen = {
+		amount = 1
+	}
+}
+25={
+    barbarian_power=0
+    civilization_value=10
+    culture="magadhi"
+    province_rank="settlement"
+    religion="buddhism"
+    terrain="plains"
+    trade_goods="wood"
+	freemen = {
+		amount = 1
+	}
+}
+26={
+    barbarian_power=0
+    civilization_value=10
+    culture="magadhi"
+    province_rank="settlement"
+    religion="buddhism"
+    terrain="plains"
+    trade_goods="wood"
+	freemen = {
+		amount = 1
+	}
+}
+27={
+    barbarian_power=0
+    civilization_value=10
+    culture="magadhi"
+    province_rank="settlement"
+    religion="buddhism"
+    terrain="plains"
+    trade_goods="wood"
+	freemen = {
+		amount = 1
+	}
+}
+28={
+    barbarian_power=0
+    civilization_value=10
+    culture="magadhi"
+    province_rank="settlement"
+    religion="buddhism"
+    terrain="plains"
+    trade_goods="wood"
+	freemen = {
+		amount = 1
+	}
+}
+29={
+    barbarian_power=0
+    civilization_value=10
+    culture="magadhi"
+    province_rank="settlement"
+    religion="buddhism"
+    terrain="plains"
+    trade_goods="wood"
+	freemen = {
+		amount = 1
+	}
+}
+30={
+    barbarian_power=0
+    civilization_value=10
+    culture="magadhi"
+    province_rank="settlement"
+    religion="buddhism"
+    terrain="plains"
+    trade_goods="wood"
+	freemen = {
+		amount = 1
+	}
+}
+31={
+    barbarian_power=0
+    civilization_value=10
+    culture="magadhi"
+    province_rank="settlement"
+    religion="buddhism"
+    terrain="plains"
+    trade_goods="wood"
+	freemen = {
+		amount = 1
+	}
+}
+32={
+    barbarian_power=0
+    civilization_value=10
+    culture="magadhi"
+    province_rank="settlement"
+    religion="buddhism"
+    terrain="plains"
+    trade_goods="wood"
+	freemen = {
+		amount = 1
+	}
+}
+33={
+    barbarian_power=0
+    civilization_value=10
+    culture="magadhi"
+    province_rank="settlement"
+    religion="buddhism"
+    terrain="plains"
+    trade_goods="wood"
+	freemen = {
+		amount = 1
+	}
+}
+34={
+    barbarian_power=0
+    civilization_value=10
+    culture="magadhi"
+    province_rank="settlement"
+    religion="buddhism"
+    terrain="plains"
+    trade_goods="wood"
+	freemen = {
+		amount = 1
+	}
+}
+35={
+    barbarian_power=0
+    civilization_value=0
+    culture=""
+    province_rank=""
+    religion=""
+    terrain="impassable_terrain"
+    trade_goods=""
+}
+36={
+    barbarian_power=0
+    civilization_value=0
+    culture=""
+    province_rank=""
+    religion=""
+    terrain="impassable_terrain"
+    trade_goods=""
+}
+37={
+    barbarian_power=0
+    civilization_value=10
+    culture="magadhi"
+    province_rank="settlement"
+    religion="buddhism"
+    terrain="plains"
+    trade_goods="wood"
+	freemen = {
+		amount = 1
+	}
+}
+38={
+    barbarian_power=0
+    civilization_value=10
+    culture="magadhi"
+    province_rank="settlement"
+    religion="buddhism"
+    terrain="plains"
+    trade_goods="wood"
+	freemen = {
+		amount = 1
+	}
+}
+39={
+    barbarian_power=0
+    civilization_value=10
+    culture="magadhi"
+    province_rank="settlement"
+    religion="buddhism"
+    terrain="plains"
+    trade_goods="wood"
+	freemen = {
+		amount = 1
+	}
+}
+40={
+    barbarian_power=0
+    civilization_value=10
+    culture="magadhi"
+    province_rank="settlement"
+    religion="buddhism"
+    terrain="plains"
+    trade_goods="wood"
+	freemen = {
+		amount = 1
+	}
+}
+41={
+    barbarian_power=0
+    civilization_value=10
+    culture="magadhi"
+    province_rank="settlement"
+    religion="buddhism"
+    terrain="plains"
+    trade_goods="wood"
+	freemen = {
+		amount = 1
+	}
+}
+42={
+    barbarian_power=0
+    civilization_value=10
+    culture="magadhi"
+    province_rank="settlement"
+    religion="buddhism"
+    terrain="plains"
+    trade_goods="wood"
+	freemen = {
+		amount = 1
+	}
+}
+43={
+    barbarian_power=0
+    civilization_value=10
+    culture="magadhi"
+    province_rank="settlement"
+    religion="buddhism"
+    terrain="plains"
+    trade_goods="wood"
+	freemen = {
+		amount = 1
+	}
+}
+44={
+    barbarian_power=0
+    civilization_value=10
+    culture="magadhi"
+    province_rank="settlement"
+    religion="buddhism"
+    terrain="plains"
+    trade_goods="wood"
+	freemen = {
+		amount = 1
+	}
+}
+45={
+    barbarian_power=0
+    civilization_value=10
+    culture="magadhi"
+    province_rank="settlement"
+    religion="buddhism"
+    terrain="plains"
+    trade_goods="wood"
+	freemen = {
+		amount = 1
+	}
+}
+46={
+    barbarian_power=0
+    civilization_value=10
+    culture="magadhi"
+    province_rank="settlement"
+    religion="buddhism"
+    terrain="plains"
+    trade_goods="wood"
+	freemen = {
+		amount = 1
+	}
+}
+47={
+    barbarian_power=0
+    civilization_value=10
+    culture="magadhi"
+    province_rank="settlement"
+    religion="buddhism"
+    terrain="plains"
+    trade_goods="wood"
+	freemen = {
+		amount = 1
+	}
+}
+48={
+    barbarian_power=0
+    civilization_value=10
+    culture="magadhi"
+    province_rank="settlement"
+    religion="buddhism"
+    terrain="plains"
+    trade_goods="wood"
+	freemen = {
+		amount = 1
+	}
+}
+49={
+    barbarian_power=0
+    civilization_value=10
+    culture="magadhi"
+    province_rank="settlement"
+    religion="buddhism"
+    terrain="plains"
+    trade_goods="wood"
+	freemen = {
+		amount = 1
+	}
+}
+50={
+    barbarian_power=0
+    civilization_value=10
+    culture="magadhi"
+    province_rank="settlement"
+    religion="buddhism"
+    terrain="plains"
+    trade_goods="wood"
+	freemen = {
+		amount = 1
+	}
+}
+51={
+    barbarian_power=0
+    civilization_value=10
+    culture="magadhi"
+    province_rank="settlement"
+    religion="buddhism"
+    terrain="plains"
+    trade_goods="wood"
+	freemen = {
+		amount = 1
+	}
+}
+52={
+    barbarian_power=0
+    civilization_value=10
+    culture="magadhi"
+    province_rank="settlement"
+    religion="buddhism"
+    terrain="plains"
+    trade_goods="wood"
+	freemen = {
+		amount = 1
+	}
+}
+53={
+    barbarian_power=0
+    civilization_value=10
+    culture="magadhi"
+    province_rank="settlement"
+    religion="buddhism"
+    terrain="plains"
+    trade_goods="wood"
+	freemen = {
+		amount = 1
+	}
+}
+54={
+    barbarian_power=0
+    civilization_value=10
+    culture="magadhi"
+    province_rank="settlement"
+    religion="buddhism"
+    terrain="plains"
+    trade_goods="wood"
+	freemen = {
+		amount = 1
+	}
+}
+55={
+    barbarian_power=0
+    civilization_value=10
+    culture="magadhi"
+    province_rank="settlement"
+    religion="buddhism"
+    terrain="plains"
+    trade_goods="wood"
+	freemen = {
+		amount = 1
+	}
+}
+56={
+    barbarian_power=0
+    civilization_value=10
+    culture="magadhi"
+    province_rank="settlement"
+    religion="buddhism"
+    terrain="plains"
+    trade_goods="wood"
+	freemen = {
+		amount = 1
+	}
+}
+57={
+    barbarian_power=0
+    civilization_value=10
+    culture="magadhi"
+    province_rank="settlement"
+    religion="buddhism"
+    terrain="plains"
+    trade_goods="wood"
+	freemen = {
+		amount = 1
+	}
+}
+58={
+    barbarian_power=0
+    civilization_value=10
+    culture="magadhi"
+    province_rank="settlement"
+    religion="buddhism"
+    terrain="plains"
+    trade_goods="wood"
+	freemen = {
+		amount = 1
+	}
+}
+59={
+    barbarian_power=0
+    civilization_value=10
+    culture="magadhi"
+    province_rank="settlement"
+    religion="buddhism"
+    terrain="plains"
+    trade_goods="wood"
+	freemen = {
+		amount = 1
+	}
+}
+60={
+    barbarian_power=0
+    civilization_value=10
+    culture="magadhi"
+    province_rank="settlement"
+    religion="buddhism"
+    terrain="plains"
+    trade_goods="wood"
+	freemen = {
+		amount = 1
+	}
+}
+61={
+    barbarian_power=0
+    civilization_value=10
+    culture="magadhi"
+    province_rank="settlement"
+    religion="buddhism"
+    terrain="plains"
+    trade_goods="wood"
+	freemen = {
+		amount = 1
+	}
+}
+62={
+    barbarian_power=0
+    civilization_value=10
+    culture="magadhi"
+    province_rank="settlement"
+    religion="buddhism"
+    terrain="plains"
+    trade_goods="wood"
+	freemen = {
+		amount = 1
+	}
+}
+63={
+    barbarian_power=0
+    civilization_value=10
+    culture="magadhi"
+    province_rank="settlement"
+    religion="buddhism"
+    terrain="plains"
+    trade_goods="wood"
+	freemen = {
+		amount = 1
+	}
+}
+64={
+    barbarian_power=0
+    civilization_value=10
+    culture="magadhi"
+    province_rank="settlement"
+    religion="buddhism"
+    terrain="plains"
+    trade_goods="wood"
+	freemen = {
+		amount = 1
+	}
+}
+65={
+    barbarian_power=0
+    civilization_value=10
+    culture="magadhi"
+    province_rank="settlement"
+    religion="buddhism"
+    terrain="plains"
+    trade_goods="wood"
+	freemen = {
+		amount = 1
+	}
+}
+66={
+    barbarian_power=0
+    civilization_value=10
+    culture="magadhi"
+    province_rank="settlement"
+    religion="buddhism"
+    terrain="plains"
+    trade_goods="wood"
+	freemen = {
+		amount = 1
+	}
+}
+67={
+    barbarian_power=0
+    civilization_value=10
+    culture="magadhi"
+    province_rank="settlement"
+    religion="buddhism"
+    terrain="plains"
+    trade_goods="wood"
+	freemen = {
+		amount = 1
+	}
+}
+68={
+    barbarian_power=0
+    civilization_value=10
+    culture="magadhi"
+    province_rank="settlement"
+    religion="buddhism"
+    terrain="plains"
+    trade_goods="wood"
+	freemen = {
+		amount = 1
+	}
+}
+69={
+    barbarian_power=0
+    civilization_value=10
+    culture="magadhi"
+    province_rank="settlement"
+    religion="buddhism"
+    terrain="plains"
+    trade_goods="wood"
+	freemen = {
+		amount = 1
+	}
+}
+70={
+    barbarian_power=0
+    civilization_value=10
+    culture="magadhi"
+    province_rank="settlement"
+    religion="buddhism"
+    terrain="plains"
+    trade_goods="wood"
+	freemen = {
+		amount = 1
+	}
+}
+71={
+    barbarian_power=0
+    civilization_value=10
+    culture="magadhi"
+    province_rank="settlement"
+    religion="buddhism"
+    terrain="plains"
+    trade_goods="wood"
+	freemen = {
+		amount = 1
+	}
+}
+72={
+    barbarian_power=0
+    civilization_value=10
+    culture="magadhi"
+    province_rank="settlement"
+    religion="buddhism"
+    terrain="plains"
+    trade_goods="wood"
+	freemen = {
+		amount = 1
+	}
+}
+73={
+    barbarian_power=0
+    civilization_value=10
+    culture="magadhi"
+    province_rank="settlement"
+    religion="buddhism"
+    terrain="plains"
+    trade_goods="wood"
+	freemen = {
+		amount = 1
+	}
+}
+74={
+    barbarian_power=0
+    civilization_value=0
+    culture=""
+    province_rank=""
+    religion=""
+    terrain="impassable_terrain"
+    trade_goods=""
+}
+75={
+    barbarian_power=0
+    civilization_value=10
+    culture="magadhi"
+    province_rank="settlement"
+    religion="buddhism"
+    terrain="plains"
+    trade_goods="wood"
+	freemen = {
+		amount = 1
+	}
+}
+76={
+    barbarian_power=0
+    civilization_value=10
+    culture="magadhi"
+    province_rank="settlement"
+    religion="buddhism"
+    terrain="plains"
+    trade_goods="wood"
+	freemen = {
+		amount = 1
+	}
 }
