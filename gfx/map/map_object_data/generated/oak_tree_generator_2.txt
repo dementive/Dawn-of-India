@@ -6,5 +6,22 @@
 	layer="oak_tree_layer"
 	pdxmesh="tree_oak_2_mesh"
 	count=0
-	transform=""
+}
+object={
+	name="oak_tree_generator_2_1"
+	clamp_to_water_level=no
+	render_under_water=no
+	generated_content=yes
+	layer="oak_tree_layer"
+	pdxmesh="tree_oak_2_variation_1_mesh"
+	count=0
+}
+object={
+	name="oak_tree_generator_2_2"
+	clamp_to_water_level=no
+	render_under_water=no
+	generated_content=yes
+	layer="oak_tree_layer"
+	pdxmesh="tree_oak_2_variation_2_mesh"
+	count=0
 }

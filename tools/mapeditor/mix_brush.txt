@@ -67,22 +67,22 @@
 			Materials={
 				Material={
 					MaterialId="plains_01_noisy"
-					Value=122
+					Value=53
 				}
 
 				Material={
 					MaterialId="plains_01"
-					Value=59
+					Value=27
 				}
 
 				Material={
 					MaterialId="hills_01"
-					Value=45
+					Value=148
 				}
 
 				Material={
 					MaterialId="boulders_grassy_02"
-					Value=29
+					Value=27
 				}
 
 			}
@@ -536,6 +536,63 @@
 				Material={
 					MaterialId="snow"
 					Value=1
+				}
+
+			}
+		}
+
+		Sample={
+			Name="Sample from 2196, 1172"
+			Materials={
+				Material={
+					MaterialId="rock_european"
+					Value=114
+				}
+
+				Material={
+					MaterialId="mountains"
+					Value=98
+				}
+
+				Material={
+					MaterialId="mountain_02"
+					Value=23
+				}
+
+				Material={
+					MaterialId="snow"
+					Value=12
+				}
+
+				Material={
+					MaterialId="mountain_02_d"
+					Value=8
+				}
+
+			}
+		}
+
+		Sample={
+			Name="Sample from 1920, 500"
+			Materials={
+				Material={
+					MaterialId="rock_sandstone"
+					Value=158
+				}
+
+				Material={
+					MaterialId="mountains"
+					Value=49
+				}
+
+				Material={
+					MaterialId="rock_european"
+					Value=31
+				}
+
+				Material={
+					MaterialId="desert_02"
+					Value=17
 				}
 
 			}
