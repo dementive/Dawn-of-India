@@ -6,5 +6,4 @@
 	layer="tree_layer"
 	pdxmesh="tree_olive_01_mesh"
 	count=0
-	transform=""
 }
